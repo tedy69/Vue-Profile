@@ -1,0 +1,178 @@
+{
+  // title
+  title: "Tedy Profile",
+  social: {
+    github: "https://github.com/tedy69",
+    twitter: "https://twitter.com/dark_dev69",
+    instagram: "https://instagram.com/tedyfazrin_",
+    linkedin: "https://www.linkedin.com/in/mochammad-tedy-fazrin/",
+  },
+  // banner
+  banner: {
+    anchor: {
+      id: "banner",
+      icon: "home",
+      name: "Home",
+    },
+    title: "Mochammad Tedy Fazrin",
+    desc: [
+      "Android Developer",
+      "Web Developer",
+      "Open source contributor",
+      "Coffee lover"
+    ],
+  },
+
+  modules: [
+    {
+      display: true,
+      anchor: {
+        id: "about",
+        icon: "user",
+        name: "About Me"
+      },
+      header: {
+        title: "information",
+        subtitle: "about me",
+      },
+      social: 
+      [
+        {
+          name: "Github",
+          icon: "github",
+          link: "https://github.com/tedy69",
+          color: "#333"
+        },
+        {
+          name: "Instagram",
+          icon: "instagram",
+          link: "https://instagram.com/tedyfazrin_",
+          color: "#f48024"
+        },
+        {
+          name: "Facebook",
+          icon: "facebook",
+          link: "https://facebook.com/mochtedyfazrin/",
+          color: "#2e89ff"
+        },
+        {
+          name: "Linkedin",
+          icon: "linkedin-in",
+          link: "https://www.linkedin.com/in/mochammad-tedy-fazrin/",
+          color: "#0077B5"
+        }
+      ],
+      content: {
+        desc: [
+          "I live in Tangerang, Indonesia"
+        ]
+      },
+    },
+    {
+      display: true,
+      anchor: {
+        id: "experience",
+        icon: "idcard",
+        name: "Experience"
+      },
+      header: {
+        title: "experience",
+        subtitle: "my experience",
+      },
+      cards: [
+        {
+          title: "eBdesk Teknologi - Indonesia",
+          subtitle: "February 2020 to Present",
+          md: "Build a Design System which is reusable in other projects,\
+          \nDesign and build Micro Frontends system which makes outsourcing project easily,\
+          \nDevelop and maintain company's service application, front-end development with VueJS & Angular,\
+          \nmobile development using Kotlin or Java,Technology: VueJS, Angular, Kotlin, Java"
+        },
+        {
+          title: "Raharja University of Software Engineering",
+          subtitle: "August 2019 to Present",
+          md: "**<u>Undergraduate</u>**\
+          \n\
+          \nJoining Organization HIMTIF"
+        }
+      ],
+    },
+    {
+      display: true,
+      anchor: {
+        id: "certificate",
+        icon: "file-done",
+        name: "Certificate"
+      },
+      header: {
+        title: "certificate",
+        subtitle: "my certificate",
+      },
+      cards: [
+        {
+          title: "Baseline: Data, ML, AI",
+          subtitle: "Qwiklabs | Mar 2020",
+          link: "https://www.qwiklabs.com/public_profiles/56f2b100-e09b-4650-ac5c-6c0c8268516e",
+          icon: "https://user-images.githubusercontent.com/49227804/97088560-e1240000-165b-11eb-9727-c7881a1607c0.png",
+          md: "Kelas ini didesain untuk developer yang ingin mempelajari Machine Learning dengan menggunakan teknologi Qwiklabs."
+        },
+        {
+          title: "Mobile Programming Android & Kotlin",
+          subtitle: "Skill Academy | Mar 2020",
+          link: "https://www.linkedin.com/posts/mochammad-tedy-fazrin_disiniaja-dirumahaja-juniordeveloper-activity-6650380230089379840-JB4C",
+          icon: "https://user-images.githubusercontent.com/49227804/97088558-e08b6980-165b-11eb-9239-c7ab9df95d4a.jpg",
+          md: "Fundamental Android with Kotlin"
+        },
+        {
+          title: "Mastering Mobile Programming Android",
+          subtitle: "Skill Academy | Mar 2020",
+          link: "https://www.linkedin.com/posts/mochammad-tedy-fazrin_disiniaja-dirumahaja-juniordeveloper-activity-6650344596071116800-aAc5",
+          icon: "https://user-images.githubusercontent.com/49227804/97088558-e08b6980-165b-11eb-9239-c7ab9df95d4a.jpg",
+          md: "Mastering Mobile Programming Android"
+        },
+        {
+          title: "Belajar Membuat Aplikasi Kognitif",
+          subtitle: "Dicoding Academy | Mar 2020",
+          link: "https://www.dicoding.com/users/Tedy_Fazrin69/academies",
+          icon: "https://user-images.githubusercontent.com/49227804/97088526-a0c48200-165b-11eb-83e1-7978d5ead76b.jpg",
+          md: "Kelas ini didesain untuk developer yang ingin mempelajari aplikasi kognitif dengan menggunakan teknologi IBM Watson."
+        },
+        {
+          title: "Google Digital Garage",
+          subtitle: "Google | Nov 2019",
+          link: "https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code",
+          icon: "https://user-images.githubusercontent.com/49227804/97088556-dec1a600-165b-11eb-826d-b3d7fdab1f40.png",
+          md: "Learn online marketing"
+        },
+        {
+          title: "Belajar Membuat Aplikasi untuk Pemula",
+          subtitle: "Dicoding Academy | Oct 2019",
+          link: "https://www.dicoding.com/users/Tedy_Fazrin69/academies",
+          icon: "https://user-images.githubusercontent.com/49227804/97088526-a0c48200-165b-11eb-83e1-7978d5ead76b.jpg",
+          md: "Pelajari cara membuat aplikasi pertamamu dengan Android Studio. Kelas ini mengajarkan dasar Android mulai dari Intent sampai RecyclerView."
+        },
+        {
+          title: "Belajar Dasar Pemrograman Web",
+          subtitle: "Dicoding Academy | Oct 2019",
+          link: "https://www.dicoding.com/users/Tedy_Fazrin69/academies",
+          icon: "https://user-images.githubusercontent.com/49227804/97088526-a0c48200-165b-11eb-83e1-7978d5ead76b.jpg",
+          md: "Pelajari komponen-komponen dasar HTML, CSS, dan JavaScript yang merupakan fondasi utama untuk menjadi Web Developer."
+        },
+        {
+          title: "Memulai Pemrograman dengan Kotlin",
+          subtitle: "Dicoding Academy | Oct 2019",
+          link: "https://www.dicoding.com/users/Tedy_Fazrin69/academies",
+          icon: "https://user-images.githubusercontent.com/49227804/97088526-a0c48200-165b-11eb-83e1-7978d5ead76b.jpg",
+          md: "Kelas pengantar untuk mempelajari Functional Programming serta Object-Oriented Programming (OOP) menggunakan Kotlin."
+        },
+        {
+          title: "MikroTik Certified Network Associate (MTCNA)",
+          subtitle: "Mikrotik | Dec 2018",
+          link: "https://mikrotik.com/training/certificates/b137896cf3cb5743a746",
+          icon: "https://user-images.githubusercontent.com/49227804/97088554-d9645b80-165b-11eb-9070-6e3abe95e374.png",
+          md: "Configure a MikroTik RouterOS Routerboard as a dedicated router, a bandwidth manager, a firewall, a wireless access point, a VPN Server etc. This course covers the basics skills of routerOS configuration which is very useful for those that are new to Mikrotik RouterOS."
+        },
+      ],
+    }
+  ],
+}
